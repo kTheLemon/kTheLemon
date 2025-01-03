@@ -14,3 +14,4 @@ none right now
 
 #### Programming Languages I never want to touch:
 ![rust](https://img.shields.io/badge/Rust-A66035?style=for-the-badge&logo=rust&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFCD45?style=for-the-badge&logo=python&logoColor=black)
