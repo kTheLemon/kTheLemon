@@ -1,6 +1,6 @@
-### k i'm k hi my name is k
+### hello my name is k
 
-I HATE Python it sucks and it's slow. Lua is where it's at. Fight me.
+python sucks
 
 #### Programming Languages I know:
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
